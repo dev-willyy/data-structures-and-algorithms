@@ -1,0 +1,17 @@
+$ Big O Notation
+# Big O Notation is a way of calculating the time & space complexities of an Algorithm
+
+$ Program Execution Model
+program => cold storage => In-memory (loses it here) => cpu (runs here)
+
+$ 2-Factor Involved in Running a Program
+- Where the program is stored
+- Operations that run on that program
+
+@How do we use Big O Notation:
+1. Counting Analysis: N of operations the code needs vs N of operations executable by CPU
+
+@PS: when analyzing for Time Complexity, we don't consider the constants (assignments) BUT only the magnitude
+@PS: Time Complexity varies with Input (linearly)
+@PS: sum doesn't change space & i doesn't change space, since ALL numbers have fixed space value
+

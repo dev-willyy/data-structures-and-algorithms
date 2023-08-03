@@ -1,0 +1,40 @@
+$ Intro to DSs
+# DSs are specialized schemes for organizing & storing data that leaves them amenable (fit) for efficient processing (according to Apk type)
+
+$ Key Points
+1. Input Value
+2. Type
+3. Size
+4. Memory
+5. Primitive or Complex
+6. Layout
+7. Visualization
+8. Persistence
+
+$ Making Sense of It
+1s & 0s => Encoded Char sets => Data => Structure (LIFO/FIFO, Node, Array, List, Stack, Queue, Tree, Graph, Hash)  => Operation
+
+
+$ Intro to Algorithms
+# Algorithms focuses on Operations. Algorithms are rules and methodologies that turns data into an implementable form
+
+$ Key Points
+1. Rules
+2. Bounded
+3. Structure dependent (specific for specific DSs)
+4. Operations
+5. Patterns and formula
+6. Focuses on Outputs
+7. Time (Speed)
+8. Space (Memory)
+
+$ Standard Algorithms Technique
+- Greedy Algorithm
+- Divide and Conquer
+- Dijkstra's Algorithm ❌
+- Dynamic Programming
+
+
+&PS: Program == DS + Algorithm
+&PS: There are multiple Algorithms for the same problem, however, the chosen Algorithm should be the most optimal|performant one
+			
