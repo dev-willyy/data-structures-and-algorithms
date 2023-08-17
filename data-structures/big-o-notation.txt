@@ -15,3 +15,16 @@ $ 2-Factor Involved in Running a Program
 @PS: Time Complexity varies with Input (linearly)
 @PS: sum doesn't change space & i doesn't change space, since ALL numbers have fixed space value
 
+$ Common Big O orders
+1. Constant - 0(1)
+2. Linear - 0(N)
+3. Logarithmic - 0(logN) | >> or << by a constant factor
+4. Log-linear (Linearithmetic) - 0(NlogN)
+5. Quadratic - 0(N^2), O(N^3), O(N^4)
+6. Exponential - 0(2^N), O(3^N), O(4^N) | recursions
+7. Factorial - 0(N!) | permutations
+
+$ Best, Worst, and Average cases
+- BC: when the algorithm completes the operation at a 1st instance in n set of instances ===> O(1)
+- WC: when the algorithm completes the operation at the nth instance in n set of instances ===> O(N)
+- AC: when the algortihm completes the operation at N(N + 1)/2 sum of instances in N set of instances ===> (N^2 + 1/2N)/2 * N
